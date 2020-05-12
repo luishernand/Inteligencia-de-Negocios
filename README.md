@@ -10,6 +10,6 @@
 - Reporte de detalle de inventario  
 
 
-# Archivo:  
+# Enlace Web:  
 
 [Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)
