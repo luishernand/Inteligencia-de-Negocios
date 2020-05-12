@@ -1,8 +1,8 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG"  heiht= 250 width= 250 alt=" ">  
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG"  heiht= 150 width= 150 alt=" ">  
 
 # Inteligencia-de-Negocios
 
-## En este repositorio esta compuesto por todos los reportes creados en la herramienta de power BI desktop y power bi web, tales como:  
+##  Repositorio  compuesto por todos los reportes creados en la herramienta de power BI desktop y power bi web, tales como:  
 
 - Sistema de reporte de Inteligencia de Negocios
 - Reporte estadísitico por departamento.
