@@ -2,7 +2,7 @@
 
 # Inteligencia-de-Negocios
 
-##  Repositorio  compuesto por todos los reportes creados en la herramienta de power BI desktop y power bi web, tales como:  
+##  Repositorio  compuesto por todos los reportes creados en la herramienta de power BI desktop y power bi web, en donde encontraras:  
 
 - Sistema de reporte de Inteligencia de Negocios
 - Reporte estadísitico por departamento.
