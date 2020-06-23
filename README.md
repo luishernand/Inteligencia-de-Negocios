@@ -2,7 +2,7 @@
 
 # Inteligencia-de-Negocios
 
-##  Repositorio  compuesto por todos los reportes creados en la herramienta de power BI desktop y power bi web, en donde encontraras:  
+##  Repositorio  compuesto por reportes creados en la herramienta de power BI desktop y power bi web, y Google data studio, en donde encontraras:  
 
 - Sistema de reporte de Inteligencia de Negocios
 - Reporte estadísitico por departamento.
@@ -12,4 +12,6 @@
 
 # Enlace Web:  
 
-[Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)
+[Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)  
+[Dashboar Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
+
