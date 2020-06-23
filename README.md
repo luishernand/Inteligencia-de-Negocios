@@ -12,6 +12,8 @@
 
 # Enlace Web:  
 
-[Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)  
-[Dashboar Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
+1. [Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)  
+1. [Dashboard Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
 
+
+**Nota:** Para el ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a [luishernandezmatos@yahoo.com] solicitando su acceso a a 
