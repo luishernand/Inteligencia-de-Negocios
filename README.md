@@ -16,4 +16,4 @@
 1. [Dashboard Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
 
 
-**Nota:** Para el ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a [luishernandezmatos@yahoo.com] solicitando su acceso a a 
+**Nota:** Para el ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a: luishernandezmatos@yahoo.com.
