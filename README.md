@@ -19,7 +19,7 @@
 
 
 ## Archivos: 
-1. [Churn Rate Dashboard](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) 
+1. [Churn Rate Dashboard](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix)  PowerBI
 
 
 
