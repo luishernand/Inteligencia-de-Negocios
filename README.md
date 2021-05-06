@@ -14,6 +14,10 @@
 
 1. [Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9)  
 1. [Dashboard Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
+2. [Churn Rate Dashboard](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) 
+
+
+
 
 
 **Nota:** Para el ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a: luishernandezmatos@yahoo.com.
