@@ -19,7 +19,7 @@
 
 
 ## Archivos: 
-1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix)
+1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) y en [excel](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard_churn%20excel.xlsx)
 
 
 
