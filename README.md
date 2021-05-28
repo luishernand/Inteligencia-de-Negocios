@@ -22,6 +22,13 @@
 1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) y en [excel](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard_churn%20excel.xlsx)
 
 
+## Repositorios de Data Science 
+[Análisis-EDA](https://github.com/luishernand/Analisis-EDA-predicciones)
+
+## Repositorio  
+[Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
+
+
 
 
 
