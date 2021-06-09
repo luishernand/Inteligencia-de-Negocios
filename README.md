@@ -21,7 +21,7 @@
 
 
 ## Repositorios de Data Science 
-[Análisis-EDA](https://github.com/luishernand/Analisis-EDA-predicciones)
+[Análisis-EDA](https://luishernand.github.io/Analisis-EDA-predicciones/)
 
 ## Repositorio por tipo de Empresas  
 [Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
