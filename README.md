@@ -1,5 +1,3 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG"  heiht= 150 width= 150 alt=" ">  
-
 # Inteligencia-de-Negocios
 
 ##  Repositorio  compuesto por reportes creados en la herramienta de power BI desktop y power bi web, y Google data studio, en donde encontraras:  
@@ -25,7 +23,7 @@
 ## Repositorios de Data Science 
 [Análisis-EDA](https://github.com/luishernand/Analisis-EDA-predicciones)
 
-## Repositorio  
+## Repositorio por tipo de Empresas  
 [Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
 
 
