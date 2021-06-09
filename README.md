@@ -24,7 +24,7 @@
 [Análisis-EDA](https://luishernand.github.io/Analisis-EDA-predicciones/)
 
 ## Repositorio por tipo de Empresas  
-[Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
+[Análisis por tipo de empresa](https://luishernand.github.io/Mis-proyectos-de-ML-por-tipo-Industrias/)
 
 
 
