@@ -10,7 +10,7 @@
 
 # Enlace Web:  
 
-1. [Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9) ver archivo en formato [pdf]:https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf  
+1. [Entrada al sistema de Reporte](https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzM5OTUtMzBhNC00MTRmLWIwOGEtZjQxMjE0ZjU5ZmY1IiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9) ver archivo en formato [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)    
 1. [Dashboard Cardiovascular disease](https://datastudio.google.com/s/oc9zJabceAI)
 
 **Nota:** Para ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a: luishernandezmatos@yahoo.com
