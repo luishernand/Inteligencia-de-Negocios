@@ -15,6 +15,10 @@
 
 **Nota:** Para ver via web el dashboard de Cardiovascular Disease, favor de  enviar email a: luishernandezmatos@yahoo.com
 
+2. [Amazon](https://public.tableau.com/app/profile/luis.hernandez3032/viz/AmzonDash/Amazon?publish=yes)
+
+**Comentario:**
+Amazon creado en tableau
 ## Ver en PDF
 [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
 
