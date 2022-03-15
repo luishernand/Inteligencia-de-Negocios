@@ -43,6 +43,7 @@ Amazon creado en tableau
 ## Archivos: 
 1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) y en [excel](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard_churn%20excel.xlsx)
 2. [Netflix](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/netflix.pbix)
+3. [Reprote de ingresos](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pbix)
 
 
 ## Repositorios de Data Science 
