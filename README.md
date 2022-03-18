@@ -40,11 +40,12 @@ Amazon creado en tableau
 1. [web scraper app](https://scraper-a.herokuapp.com/)  
 
 
-## Archivos: 
+## Archivos de Power BI: 
 1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) y en [excel](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard_churn%20excel.xlsx)
 2. [Netflix](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/netflix.pbix)
 3. [Reporte de ingresos](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pbix)
 4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix)
+5. [Reporte Financiero](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20financiero.pbix)
 
 
 ## Repositorios de Data Science 
