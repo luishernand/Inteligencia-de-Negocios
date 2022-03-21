@@ -46,6 +46,7 @@ Amazon creado en tableau
 3. [Reporte de ingresos](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pbix)
 4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix)
 5. [Reporte Financiero](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20financiero.pbix)
+6. [Reporte de ingresos 2020](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pbix)
 
 
 ## Repositorios de Data Science 
