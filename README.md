@@ -51,6 +51,7 @@ Amazon creado en tableau
 8. [Youtube Analitica](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20visitas%20youtube.pbix)
 9. [Presupuesto de ventas](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pbix)
 10. [Reporte de Empleados Activos RH](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20RHH%20empleados%20activos.pbix)
+11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix)
 
 
 ## Repositorios de Data Science 
