@@ -47,7 +47,7 @@ Amazon creado en tableau
 3. [Reporte de ingresos](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pbix)
 4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix)
 5. [Reporte Financiero](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20financiero.pbix)
-6. [Reporte de ingresos 2020](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pbix)
+6. [Reporte de ingresos 2020](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pdf)
 7. [Reporte de Cartera de Cobros](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pdf)
 8. [Youtube Analitica](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20visitas%20youtube.pbix)
 9. [Presupuesto de ventas](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pbix) y en  [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pdf)
