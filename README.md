@@ -22,6 +22,7 @@ Amazon creado en tableau
 ## Ver en PDF
 [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
 
+
 ## Streamlit:
 1. [pencil_app](https://github.com/luishernand/pencil_app)
 1. [Machine learning tuning  hyperparametros y machine learning parametros](https://github.com/luishernand/ml_parameters_streamlit_app)
@@ -47,11 +48,11 @@ Amazon creado en tableau
 4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix)
 5. [Reporte Financiero](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20financiero.pbix)
 6. [Reporte de ingresos 2020](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pbix)
-7. [Reporte de Cartera de Cobros](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pbix) [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pdf)
+7. [Reporte de Cartera de Cobros](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pdf)
 8. [Youtube Analitica](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20visitas%20youtube.pbix)
-9. [Presupuesto de ventas](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pbix) [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pdf)
+9. [Presupuesto de ventas](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pbix) y en  [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pdf)
 10. [Reporte de Empleados Activos RH](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20RHH%20empleados%20activos.pbix)
-11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix), en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pdf)
+11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix) y  en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pdf)
 
 
 ## Repositorios de Data Science 
