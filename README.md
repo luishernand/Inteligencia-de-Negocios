@@ -45,7 +45,7 @@ Amazon creado en tableau
 1. Churn Rate Dashboard,  realizado en [PowerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard.pbix) y en [excel](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/dashboard_churn%20excel.xlsx)
 2. [Netflix](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/netflix.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/netflix.pdf)
 3. [Reporte de ingresos](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20ingresos.pdf)
-4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix)
+4. [Reporte de encuesta de mercado](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20encuestas%20de%20mercado.pdf)
 5. [Reporte Financiero](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20financiero.pbix)
 6. [Reporte de ingresos 2020](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20Fomikustics.pdf)
 7. [Reporte de Cartera de Cobros](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pbix) y en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20cobranzas.pdf)
