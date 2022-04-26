@@ -41,7 +41,6 @@ Amazon creado en tableau
 1. [EDA with streamlit profiling](https://eda-ap.herokuapp.com/)
 1. [crypto analysis](https://crypto-analysys.herokuapp.com/)
 1. [web scraper app](https://scraper-a.herokuapp.com/)
-2. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix)
 
 
 ## Archivos de Power BI: 
@@ -57,6 +56,7 @@ Amazon creado en tableau
 10. [Reporte de Empleados Activos RH](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20RHH%20empleados%20activos.pbix) y en [streamlit](https://share.streamlit.io/luishernand/rh-apps/main/rh.py)
 11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix) y  en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pdf)
 12. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pbix)
+13. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [jupyter Notebook](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb)
 
 
 ## Repositorios de Data Science 
