@@ -22,6 +22,7 @@ Amazon creado en tableau
 ## Ver en PDF
 1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
 2. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pdf)
+3. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 
 
 ## Streamlit:
@@ -39,7 +40,8 @@ Amazon creado en tableau
 1. [Machine learning model parametros](https://share.streamlit.io/luishernand/ml_parameters_streamlit_app/main/ml_app.py)
 1. [EDA with streamlit profiling](https://eda-ap.herokuapp.com/)
 1. [crypto analysis](https://crypto-analysys.herokuapp.com/)
-1. [web scraper app](https://scraper-a.herokuapp.com/)  
+1. [web scraper app](https://scraper-a.herokuapp.com/)
+2. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix)
 
 
 ## Archivos de Power BI: 
