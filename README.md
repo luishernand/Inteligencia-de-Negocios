@@ -20,7 +20,8 @@
 **Comentario:**
 Amazon creado en tableau
 ## Ver en PDF
-[Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
+1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
+2. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pdf)
 
 
 ## Streamlit:
@@ -53,6 +54,7 @@ Amazon creado en tableau
 9. [Presupuesto de ventas](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pbix) y en  [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20de%20presupuesto%20de%20ventas.pdf)
 10. [Reporte de Empleados Activos RH](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/reporte%20de%20RHH%20empleados%20activos.pbix) y en [streamlit](https://share.streamlit.io/luishernand/rh-apps/main/rh.py)
 11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix) y  en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pdf)
+12. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pbix)
 
 
 ## Repositorios de Data Science 
