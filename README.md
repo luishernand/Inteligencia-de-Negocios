@@ -58,7 +58,7 @@ Amazon creado en tableau
 11. [Reporte de ventas clientes marketing](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pbix) y  en [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/Reporte%20Marketing.pdf)
 12. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pbix)
 13. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [jupyter Notebook](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb)
-14. [Estadísticas de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pbix) ver prediciones de los numeros en la carpeta de Analisis de da tos EDA: (https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb) (https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)
+14. [Estadísticas de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pbix) ver predicciones de los numeros en la carpeta de Analisis de da tos EDA: https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb ,  https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb
 
 
 ## Repositorios de Data Science 
