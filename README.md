@@ -60,7 +60,8 @@ Amazon creado en tableau
 13. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [jupyter Notebook](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb)
 14. [Estadísticas de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pbix) ver predicciones de los numeros en la carpeta de Analisis de da tos EDA:        
     14.1  [prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb)          
-    14.2  [Neural Prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)          
+    14.2  [Neural Prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)  
+    14.3  [Estadistica Loto](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Estadisticas%20Loto.ipynb)        
 
 
 ## Repositorios de Data Science 
