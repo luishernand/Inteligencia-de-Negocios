@@ -17,11 +17,12 @@
 
 2. [Amazon](https://public.tableau.com/app/profile/luis.hernandez3032/viz/AmzonDash/Amazon?publish=yes)
 
+**Comentario:**
+Amazon creado en tableau  
+
 ## Tableau
 [Covid19](https://public.tableau.com/views/CovidPortafolio/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  
 
-**Comentario:**
-Amazon creado en tableau
 ## Ver en PDF
 1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
 2. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pdf)
