@@ -21,7 +21,7 @@
 Amazon creado en tableau  
 
 ## Tableau
-[Covid19](https://public.tableau.com/views/CovidPortafolio/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  
+1. [Covid19](https://public.tableau.com/views/CovidPortafolio/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  
 
 ## Ver en PDF
 1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
