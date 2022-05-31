@@ -17,6 +17,9 @@
 
 2. [Amazon](https://public.tableau.com/app/profile/luis.hernandez3032/viz/AmzonDash/Amazon?publish=yes)
 
+## Tableau
+[Covid19](https://public.tableau.com/views/CovidPortafolio/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  
+
 **Comentario:**
 Amazon creado en tableau
 ## Ver en PDF
