@@ -24,6 +24,11 @@ Amazon creado en tableau
 1. [Covid19](https://public.tableau.com/views/CovidPortafolio/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 2. [Cohort](https://public.tableau.com/app/profile/luis.hernandez3032/viz/Cohort_16890033771610/cohort?publish=yes)
 3. [Analisis Covid-19](https://public.tableau.com/app/profile/luis.hernandez3032/viz/CovidAnalysis_16898814050200/Covid-19?publish=yes)
+4. [Presupuesto de Ventas](https://public.tableau.com/app/profile/luis.hernandez3032/viz/PresupuestodeVentas_17049010936120/Presupuesto?publish=yes)
+5. [Youtube Analytycs](https://public.tableau.com/app/profile/luis.hernandez3032/viz/YotubeAnalytics/Yotube)
+6. [Reporte de cartera de Cobros](https://public.tableau.com/app/profile/luis.hernandez3032/viz/ReportedeCobranzaDashboard/cobros)
+7. [Resumen de transacciones de ventas](https://public.tableau.com/app/profile/luis.hernandez3032/viz/FOMICUSTIKS/Dashboard1)
+8. [Dashboard financiero](https://public.tableau.com/app/profile/luis.hernandez3032/viz/DIZTEKU/Dashboard1)
 
 ## Ver en PDF
 1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
