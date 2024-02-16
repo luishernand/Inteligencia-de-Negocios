@@ -36,6 +36,7 @@ Amazon creado en tableau
 3. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 4. [Estadística de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas_loto.pdf)
 5. [Cohort]((https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pdf))
+6. [Impacto de Abandono de empleados](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Streamlit:
 1. [pencil_app](https://github.com/luishernand/pencil_app)
