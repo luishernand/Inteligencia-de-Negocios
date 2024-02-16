@@ -29,14 +29,15 @@ Amazon creado en tableau
 6. [Reporte de cartera de Cobros](https://public.tableau.com/app/profile/luis.hernandez3032/viz/ReportedeCobranzaDashboard/cobros)
 7. [Resumen de transacciones de ventas](https://public.tableau.com/app/profile/luis.hernandez3032/viz/FOMICUSTIKS/Dashboard1)
 8. [Dashboard financiero](https://public.tableau.com/app/profile/luis.hernandez3032/viz/DIZTEKU/Dashboard1)
+9. [Impacto de Abandono de empleados](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Ver en PDF
 1. [Entrada al sistema de Reporte](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas.pdf)
 2. [Sales Super Store](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/salessupertores.pdf)
 3. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 4. [Estadística de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas_loto.pdf)
-5. [Cohort]((https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pdf))
-6. [Impacto de Abandono de empleados](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+5. [Cohort](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pdf)
+
 
 ## Streamlit:
 1. [pencil_app](https://github.com/luishernand/pencil_app)
