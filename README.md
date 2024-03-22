@@ -1,6 +1,6 @@
 # Inteligencia-de-Negocios
 
-##  Repositorio  compuesto por reportes creados en la herramienta de power BI desktop y power bi web,Google data studio y streamlit, en donde encontraras:  
+Repositorio  compuesto por reportes creados en la herramienta de power BI desktop y power bi web,Google data studio y streamlit, en donde encontraras:  
 
 - Sistema de reporte de Inteligencia de Negocios
 - Reporte estadísitico por departamento.
