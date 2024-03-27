@@ -77,12 +77,8 @@ Amazon creado en tableau
     14.3  [Estadistica Loto](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Estadisticas%20Loto.ipynb)
 15. [Cohort](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pbix) 
 
-
-## Repositorios de Data Science 
-[Análisis-EDA](https://luishernand.github.io/Analisis-EDA-predicciones/)
-
-## Repositorio por tipo de Empresas  
-[Análisis por tipo de empresa](https://luishernand.github.io/Mis-proyectos-de-ML-por-tipo-Industrias/)
+## Repositorio principal 
+[Trabajos Realizados](https://github.com/luishernand/repositorios)
 
 
 
