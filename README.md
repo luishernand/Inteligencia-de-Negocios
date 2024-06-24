@@ -37,6 +37,7 @@ Amazon creado en tableau
 3. [Ecommerce EDA](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 4. [Estadística de los numeros de la loto](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/estadisticas_loto.pdf)
 5. [Cohort](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pdf)
+6. [Análisis de Restaurantes](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/zomato%20dashboard.pdf)
 
 
 ## Streamlit:
@@ -75,7 +76,8 @@ Amazon creado en tableau
     14.1  [prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb)          
     14.2  [Neural Prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)  
     14.3  [Estadistica Loto](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Estadisticas%20Loto.ipynb)
-15. [Cohort](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pbix) 
+15. [Cohort](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/cohort.pbix)
+16. [Análisis de Restaurantes](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/zomato%20dashboard.pbix)
 
 ## Carpeta de Proyectos    
 - Aqui encontraras todos mis proyectos de forma organizada  con sus respectivos archivos.  
